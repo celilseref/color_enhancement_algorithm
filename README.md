@@ -9,7 +9,7 @@ Renk iyileştirme algoritmasının çalışma zamanı, en iyi, en kötü ve orta
 
 OpenCV kütüphanesi ile renk değiştirme algoritmaları genellikle doğru kullanımda hızlıdır, işlemci hızı bellek bant genişliği gibi donanım özelliklerine bağlı olarak genellikle saniyeler içerisinde sonuç üretebilirler. Gerçek zamanlı uygulamalarda kullanılabilirler ve verimlilikleri çok önemlidir.
 
-Ben algoritmamı Dev C++ IDE'sini kullanarak oluşturdum. OpenCV kütüphanesini kullanmak için görüntü işleme yapmak için OpenCV kütüphanesini bilgisayarınıza indirmeniz gerekir.
+Ben algoritmamı Dev C++ IDE'sini kullanarak oluşturdum. OpenCV kütüphanesini kullanmak ve görüntü işleme yapmak için OpenCV kütüphanesini bilgisayarınıza indirmeniz gerekir.
 
                                   
 
