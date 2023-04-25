@@ -1,5 +1,5 @@
 # color_enhancement_algorithm
-Renk iyileştirme algoirtmalası:
+Renk iyileştirme algoritması:
 Görüntü işleme alanında kullanılan ve görüntüdeki renklerin kontrastnı, parlaklğını ve doygunluğunu arttırmak ve azaltmak için tasarlanmış algoritmalardır.
 
 Hangi Alanlarda kullanılır:
